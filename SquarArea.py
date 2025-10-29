@@ -2,7 +2,7 @@
 # AreaOfSquar= side*side 
 
 # For take side of square 
-SideOfSquare=input("Enter a side of square: ")
-print("Side of Square is: ",SideOfSquare )
-AreaOfSquar= SideOfSquaree*SideOfSquaree
+SideOfSquare = int(input("Enter a side of square: "))
+print("Side of Square is: ", SideOfSquare )
+AreaOfSquar = SideOfSquare * SideOfSquare
 print("Areaw of Square is: ", AreaOfSquar )

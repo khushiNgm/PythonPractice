@@ -15,11 +15,11 @@ I have covered major Python concepts and practiced coding questions from both Ge
 
 ## ✍️ Practice Sources
 
-### 🔹 [GeeksforGeeks (GFG)](https://www.geeksforgeeks.org/python/python-exercises-practice-questions-and-solutions/)
-I have practiced multiple Core Python questions from GFG.
+### 🔹 GeeksforGeeks (GFG)
+I have practiced multiple Core Python questions from [GFG](https://www.geeksforgeeks.org/python/python-exercises-practice-questions-and-solutions/).
 
-### 🔹 [College Python Playlist](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
-I have learned Core Python from my college playlist and completed exercise questions from it.
+### 🔹 Apna College Python Playlist
+I have learned Core Python from [Apna college playlist](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0) and completed exercise questions from it.
 
 
 ## 🎯 Purpose

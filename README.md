@@ -17,15 +17,11 @@ I have covered major Python concepts and practiced coding questions from both Ge
 
 ### 🔹 GeeksforGeeks (GFG)
 I have practiced multiple Core Python questions from GFG.
-
-🔗 **GFG Python Practice List:**  
-https://www.geeksforgeeks.org/python/python-exercises-practice-questions-and-solutions/
+🔗 [GFG Python Practice List](https://www.geeksforgeeks.org/python/python-exercises-practice-questions-and-solutions/)
 
 ### 🔹 College Python Playlist
 I have learned Core Python from my college playlist and completed exercise questions from it.
-
-🔗 **College Python Playlist:**  
-*(https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)*
+🔗 [College Python Playlist](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
 
 ## 🎯 Purpose
 To strengthen my Python fundamentals, improve logic building, and gain confidence in real coding problems.

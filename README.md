@@ -27,6 +27,7 @@ To strengthen my Python fundamentals, improve logic building, and gain confidenc
 
 ## 👩‍💻 **Author**
 **Khushi Nigam**  
+
 GitHub: https://github.com/khushiNgm  
 Email: nigamkhushi731@gmail.com  
 

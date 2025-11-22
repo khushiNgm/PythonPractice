@@ -25,6 +25,7 @@ Dict= {
 }
 
 # Function for Dist 
+
 print(Dict["Blind"])
 print(Dict.keys())
 print(Dict.values())
@@ -33,6 +34,17 @@ print(Dict.get("Category"))
 print(Dict.update({"Blind":"True"}))
 print(Dict["Blind"])
 
+# Nested distonary 
+student={
+    "Name":"Khushi",
+    "section":{
+        "SecName": "A",
+        "SNum": 200,
+        "TotalSecNO": 50,
+    }
+}
+print(student["Name"])
+print(student["section"]["SNum"])
 
 
 
